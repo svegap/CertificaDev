@@ -1,0 +1,50 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.tabla-estilos{    
+    width: 35%;    
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.tabla-agregar{
+    width: 20%;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.tabla-editar{
+    width: 25%;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+th{
+    text-align: center;    
+}
+
+id{
+    width: auto;
+    text-align: left;
+}
+
+.txtId{
+    width: 40px;
+    text-align: center;
+}
+
+#error{
+    color: red;
+        
+}
+
+.box{
+    height: 25px;
+    
+}
